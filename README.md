@@ -1,6 +1,6 @@
 # graphite-supervisord-rpm
 
-How to install and configure Graphite 0.9.x via RPMs on RHEL 6 and run it under process supervision with supervisord.
+How to install and configure Graphite 0.9.x via RPMs on CentOS/RHEL 6 and run it under process supervision with supervisord.
 
 
 # What we want to do
