@@ -16,6 +16,8 @@ Once installed you can collect metrics from your applications and infrastructure
 dashboards on top of Graphite to add (meaningful) lipstick to Graphite's default web frontend (see dashboard list
 at the end of this document).
 
+Tip: You dont need to install ruby/gem on the graphite server if you build the packages some where else.
+
 
 # Versions
 
